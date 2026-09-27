@@ -13,6 +13,10 @@ Discord: ``wzrd0001``
 * Lobby Chat
 * Channel Player list
 * Player Rank/Level
+* Create Room
+* Room Player List
+* Password Protected Rooms
+* Room List
 
 # To Do
 * Remove 30 FPS limit
@@ -28,3 +32,5 @@ Discord: ``wzrd0001``
 <img width="1255" height="937" alt="image" src="https://github.com/user-attachments/assets/71c7bf50-87eb-410d-8bf8-3963055255c3" />
 <img width="1257" height="941" alt="image" src="https://github.com/user-attachments/assets/84b39885-98a5-4542-b0a8-b84460d6a470" />
 <img width="397" height="842" alt="image" src="https://github.com/user-attachments/assets/e2b624fa-3164-4be0-91e1-8cce309026a6" />
+<img width="1272" height="890" alt="image" src="https://github.com/user-attachments/assets/e26c9746-9a44-4ee1-8466-acd8a3501895" />
+
