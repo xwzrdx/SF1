@@ -12,6 +12,7 @@ Discord: ``wzrd0001``
 * Room Chat
 * Lobby Chat
 * Channel Player list
+* Player Rank/Level
 
 # To Do
 * Remove 30 FPS limit
