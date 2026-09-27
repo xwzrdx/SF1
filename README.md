@@ -34,4 +34,5 @@ Discord: ``wzrd0001``
 <img width="397" height="842" alt="image" src="https://github.com/user-attachments/assets/e2b624fa-3164-4be0-91e1-8cce309026a6" />
 <img width="1272" height="890" alt="image" src="https://github.com/user-attachments/assets/e26c9746-9a44-4ee1-8466-acd8a3501895" />
 <img width="1251" height="616" alt="image" src="https://github.com/user-attachments/assets/9f6ee5d4-e527-401a-852f-ff84211530f1" />
+<img width="1253" height="682" alt="image" src="https://github.com/user-attachments/assets/fd261caa-ad82-483f-bbbb-a87efda10072" />
 
