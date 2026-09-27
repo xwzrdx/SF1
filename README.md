@@ -17,6 +17,8 @@ Discord: ``wzrd0001``
 * Room Player List
 * Password Protected Rooms
 * Room List
+* Enter Room
+* Ready/Unready
 
 # To Do
 * Remove 30 FPS limit
