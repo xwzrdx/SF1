@@ -12,7 +12,12 @@ Discord: ``wzrd0001``
 * Room Chat
 * Lobby Chat
 * Channel Player list
-* 
+
+# To Do
+* Remove 30 FPS limit
+* Viewmodel FOV
+* FOV
+* Password protected rooms
 
 
 
