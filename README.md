@@ -19,6 +19,7 @@ Discord: ``wzrd0001``
 * Room List
 * Enter Room
 * Ready/Unready
+* Multiplayer
 
 # To Do
 * Remove 30 FPS limit
