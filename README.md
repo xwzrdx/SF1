@@ -24,7 +24,7 @@ Discord: ``wzrd0001``
 * Remove 30 FPS limit
 * Viewmodel FOV
 * FOV
-* Password protected rooms
+* Windowed Mode
 
 
 
