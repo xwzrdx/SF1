@@ -24,7 +24,8 @@ Discord: ``wzrd0001``
 * Remove 30 FPS limit
 * Viewmodel FOV
 * FOV
-* Windowed Mode
+* Weapon sway when looking around
+* Windowed Mode Support
 
 
 
