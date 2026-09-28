@@ -20,13 +20,18 @@ Discord: ``wzrd0001``
 * Enter Room
 * Ready/Unready
 * Multiplayer
-
-# To Do
 * Remove 30 FPS limit
 * Viewmodel FOV
 * FOV
 * Weapon sway when looking around
 * Windowed Mode Support
+
+
+
+
+
+# To Do
+
 
 
 
